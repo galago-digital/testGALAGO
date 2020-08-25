@@ -47,7 +47,7 @@
                     </div>
                   </div>
                   <div class="col-md-6 mb-3">   
-                    <input type="text" name="date_birth" id="date_birth" class="form-control" placeholder="Введите дату рождения" required/>
+                    <input type="text" name="date_birth" id="date_birth" class="form-control" placeholder="Введите дату рождения" required readonly/>
                     <div class="invalid-feedback">
                       Неверные данные.
                     </div>
