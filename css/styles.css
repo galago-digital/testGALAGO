@@ -1,0 +1,35 @@
+@media (min-width:1921px){
+    html {
+        font-size: 1.5vh;
+    }
+}
+
+@media (max-width:1920px) and (min-width:1400px){
+    html {
+        font-size: 1.675vh;
+    }
+}
+
+@media (max-width:1399px) and (min-width:960px){
+    html {
+        font-size: 1.75vh;
+    }
+}
+
+.container {
+    max-width: 80%;
+    max-height: 100%;
+}
+
+.navbar-brand {
+    padding-top: 2px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+.form-control[readonly] {
+    background-image: none;
+    background-color: #FFF;
+}
+
+
